@@ -1,16 +1,34 @@
-## Hi there 👋
+# Willkommen auf dem GitHub-Kanal der Stadt Meerbusch 🇩🇪
 
-<!--
-**Stadt-Meerbusch/Stadt-Meerbusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Impressum / Anbieterkennzeichnung
+(gemäß § 5 DDG)
 
-Here are some ideas to get you started:
+Die Stadt Meerbusch ist eine Körperschaft des öffentlichen Rechts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vertretungsberechtigt
+Herr Bürgermeister **Christian Bommers**
+
+### Kontakt & Hausanschrift
+**Stadt Meerbusch** Der Bürgermeister  
+Dorfstraße 20  
+40667 Meerbusch  
+
+**Telefon:** 02132-916 0  
+**E-Mail:** [stadt@meerbusch.de](mailto:stadt@meerbusch.de)  
+
+### Postanschrift
+Stadtverwaltung Meerbusch  
+Postfach 1664  
+40641 Meerbusch  
+
+### Umsatzsteuer-Identifikationsnummer
+DE120593289
+
+### Aufsichtsbehörde
+Rhein-Kreis Neuss  
+Der Landrat (Hans-Jürgen Petrauschke)  
+Oberstraße 91  
+41460 Neuss
+
+---
+[Offizielle Website der Stadt Meerbusch](https://www.meerbusch.de)
