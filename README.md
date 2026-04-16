@@ -1,5 +1,3 @@
-# Willkommen auf dem GitHub-Kanal der Stadt Meerbusch 🇩🇪
-
 ## Impressum
 
 ### Anbieterkennzeichnung nach § 5 Telemediengesetz
