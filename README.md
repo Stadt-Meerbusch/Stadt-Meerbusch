@@ -28,6 +28,3 @@ Der Landrat
 Hans-Jürgen Petrauschke  
 Oberstraße 91  
 41460 Neuss
-
----
-[Offizielle Website der Stadt Meerbusch](https://www.meerbusch.de)
