@@ -5,13 +5,12 @@
 Die Stadt Meerbusch ist eine Körperschaft des öffentlichen Rechts.  
 Sie wird vertreten durch Herrn Bürgermeister Christian Bommers.
 
-**Stadt Meerbusch**  
+Stadt Meerbusch  
 Der Bürgermeister  
 Christian Bommers  
 Dorfstraße 20  
 40667 Meerbusch  
 
-**Kontakt:**  
 E-Mail: stadt(at)meerbusch.de  
 Telefon: 02132-916 0
 
@@ -21,7 +20,7 @@ Stadtverwaltung Meerbusch
 Postfach 1664  
 40641 Meerbusch  
 
-**Umsatzsteuer-Identifikationsnummer:** DE120593289
+Umsatzsteuer-Identifikationsnummer: DE120593289
 
 ### Aufsichtsbehörde
 
