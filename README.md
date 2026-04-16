@@ -1,6 +1,8 @@
 # Willkommen auf dem GitHub-Kanal der Stadt Meerbusch 🇩🇪
 
-## Anbieterkennzeichnung nach § 5 Telemediengesetz
+## Impressum
+
+### Anbieterkennzeichnung nach § 5 Telemediengesetz
 
 Die Stadt Meerbusch ist eine Körperschaft des öffentlichen Rechts.  
 Sie wird vertreten durch Herrn Bürgermeister Christian Bommers.
@@ -13,7 +15,7 @@ Dorfstraße 20
 **Kontakt:** E-Mail: stadt(at)meerbusch.de  
 Telefon: 02132-916 0
 
-## Die Postanschrift
+### Die Postanschrift
 
 Stadtverwaltung Meerbusch  
 Postfach 1664  
@@ -21,7 +23,7 @@ Postfach 1664
 
 **Umsatzsteuer-Identifikationsnummer:** DE120593289
 
-## Aufsichtsbehörde
+### Aufsichtsbehörde
 
 Rhein-Kreis Neuss  
 Der Landrat  
